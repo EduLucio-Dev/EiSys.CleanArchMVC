@@ -1,0 +1,15 @@
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\bin\Debug\net8.0\CleanArchMVC.Application.deps.json
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\bin\Debug\net8.0\CleanArchMVC.Application.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\bin\Debug\net8.0\CleanArchMVC.Application.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\bin\Debug\net8.0\CleanArchMVC.Domain.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\bin\Debug\net8.0\CleanArchMVC.Domain.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.csproj.AssemblyReference.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.AssemblyInfoInputs.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.AssemblyInfo.cs
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArc.1B65DA86.Up2Date
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\refint\CleanArchMVC.Application.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Application\obj\Debug\net8.0\ref\CleanArchMVC.Application.dll

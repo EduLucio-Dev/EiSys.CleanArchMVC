@@ -1,0 +1,11 @@
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\bin\Debug\net8.0\CleanArchMVC.Domain.deps.json
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\bin\Debug\net8.0\CleanArchMVC.Domain.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\bin\Debug\net8.0\CleanArchMVC.Domain.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.AssemblyInfoInputs.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.AssemblyInfo.cs
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\refint\CleanArchMVC.Domain.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Domain\obj\Debug\net8.0\ref\CleanArchMVC.Domain.dll

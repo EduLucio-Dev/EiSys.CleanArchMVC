@@ -1,0 +1,15 @@
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\bin\Debug\net8.0\CleanArchMVC.Data.deps.json
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\bin\Debug\net8.0\CleanArchMVC.Data.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\bin\Debug\net8.0\CleanArchMVC.Data.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\bin\Debug\net8.0\CleanArchMVC.Domain.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\bin\Debug\net8.0\CleanArchMVC.Domain.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.csproj.AssemblyReference.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.AssemblyInfoInputs.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.AssemblyInfo.cs
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArc.7042BF8F.Up2Date
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\refint\CleanArchMVC.Data.dll
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\CleanArchMVC.Data.pdb
+E:\Projetos\Projetos.EiSys\Applications\EiSys.CleanArchMVC\src\main\CleanArchMVC.Data\obj\Debug\net8.0\ref\CleanArchMVC.Data.dll

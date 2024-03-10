@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|e:\\projetos\\projetos.eisys\\applications\\eisys.cleanarchmvc\\src\\main\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|solutionrelative:src\\main\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A0C57-B460-40C9-B323-8B1587F5BFDF}|test\\CleanArchMVC.Domain.Tests\\CleanArchMVC.Domain.Tests.csproj|E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\test\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3A0C57-B460-40C9-B323-8B1587F5BFDF}|test\\CleanArchMVC.Domain.Tests\\CleanArchMVC.Domain.Tests.csproj|solutionrelative:test\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|solutionrelative:src\\main\\cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\cleanarchmvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|solutionrelative:src\\main\\cleanarchmvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\cleanarchmvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDCABEA-9B4F-479B-B836-CC4D8C667C3D}|src\\main\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj|solutionrelative:src\\main\\cleanarchmvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A0C57-B460-40C9-B323-8B1587F5BFDF}|test\\CleanArchMVC.Domain.Tests\\CleanArchMVC.Domain.Tests.csproj|E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\test\\cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3A0C57-B460-40C9-B323-8B1587F5BFDF}|test\\CleanArchMVC.Domain.Tests\\CleanArchMVC.Domain.Tests.csproj|solutionrelative:test\\cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "src\\main\\CleanArchMVC.Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "src\\main\\CleanArchMVC.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:50:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\main\\CleanArchMVC.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "src\\main\\CleanArchMVC.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:50:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryUnitTest1.cs",
+              "DocumentMoniker": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\test\\CleanArchMVC.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeDocumentMoniker": "test\\CleanArchMVC.Domain.Tests\\CategoryUnitTest1.cs",
+              "ToolTip": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\test\\CleanArchMVC.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeToolTip": "test\\CleanArchMVC.Domain.Tests\\CategoryUnitTest1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:04:28.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUnitTest1.cs",
+              "DocumentMoniker": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\test\\CleanArchMVC.Domain.Tests\\ProductUnitTest1.cs",
+              "RelativeDocumentMoniker": "test\\CleanArchMVC.Domain.Tests\\ProductUnitTest1.cs",
+              "ToolTip": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\test\\CleanArchMVC.Domain.Tests\\ProductUnitTest1.cs",
+              "RelativeToolTip": "test\\CleanArchMVC.Domain.Tests\\ProductUnitTest1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwEMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:04:15.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\main\\CleanArchMVC.Domain\\Entities\\Product.cs",
+              "ToolTip": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\main\\CleanArchMVC.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA3wC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:56:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\main\\CleanArchMVC.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "E:\\Projetos\\Projetos.EiSys\\Applications\\EiSys.CleanArchMVC\\src\\main\\CleanArchMVC.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\main\\CleanArchMVC.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:10:44.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
